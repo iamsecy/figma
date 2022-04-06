@@ -1,6 +1,7 @@
 # figma
 
 ![figma](https://github.com/arnemolland/figma/workflows/Dart%20CI/badge.svg) ![pub](https://img.shields.io/pub/v/figma.svg) [![style: pedantic](https://img.shields.io/badge/style-pedantic-9cf)](https://github.com/dart-lang/pedantic) ![license](https://img.shields.io/github/license/arnemolland/figma.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fiamsecy%2Ffigma.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fiamsecy%2Ffigma?ref=badge_shield)
 
 A library for interacting with Figma APIs.
 
@@ -26,3 +27,7 @@ main() {
 Please file feature requests and bugs at the [issue tracker][tracker].
 
 [tracker]: https://github.com/arnemolland/figma/issues
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fiamsecy%2Ffigma.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fiamsecy%2Ffigma?ref=badge_large)
